@@ -31,7 +31,8 @@ sudo apt install -y hamonikr-conky
 
 
 # Usage
- * 프로그램 > hamonikr-conky
+ * 프로그램 > `conky 설정도구` : 바탕화면의 Conky 테마를 설정하는 프로그램
+ * 프로그램 > `conky 온/오프` : Conky 사용을 온/오프 하는 프로그램
 
  # 이슈 또는 버그
  사용 중 문제를 발견하시면 root@hamonikr.org 또는 https://groups.google.com/forum/m/#!forum/hamonikr 에서 알려주세요.
