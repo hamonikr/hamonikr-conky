@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Conky Toggle
+Name[ko]=Conky 온/오프
+Comment=Desktop system monitor on/off
+Comment[ko]=바탕화면의 모니터링 기능을 on/off
+Icon=conky-toggle
+Categories=Utility;
+Exec=conkytoggle.sh
+Terminal=false
+NoDisplay=False
+Keywords=conky;toggle;모니터링;
