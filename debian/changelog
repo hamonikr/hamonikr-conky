@@ -1,3 +1,9 @@
+hamonikr-conky (1.1.0) jin; urgency=medium
+
+  * Update themes 
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 26 Apr 2021 17:49:57 +0900
+
 hamonikr-conky (1.0.0) jin; urgency=medium
 
   * Initial release. 
