@@ -1,3 +1,11 @@
+hamonikr-conky (1.1.4) jin; urgency=medium
+
+  * Add usr/share/conky-manager/themepacks/default-themes-2.3.cmtp.7z and update /debian/control
+   - Add new themes
+   - Remove conky-std and add conky-all in Depends
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 20 May 2021 10:45:05 +0900
+
 hamonikr-conky (1.1.3) jin; urgency=medium
 
   * Update usr/share/conky-manager/themepacks/default-themes-2.1.cmtp.7z 
