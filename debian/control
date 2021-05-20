@@ -14,7 +14,7 @@ Depends: libc6 (>= 2.4),
          libgtk-3-0 (>= 3.16.2), 
          libjson-glib-1.0-0 (>= 0.13.2), 
          conky, 
-         conky-std,
+         conky-all,
          p7zip-full, 
          rsync, 
          imagemagick
