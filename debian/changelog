@@ -1,3 +1,10 @@
+hamonikr-conky (1.1.5) jin; urgency=medium
+
+  * Update themes
+   - Add new themes and images
+
+ -- HamoniKR <pkg@hamonikr.org>  Sat, 10 Jul 2021 22:18:55 +0900
+
 hamonikr-conky (1.1.4) jin; urgency=medium
 
   * Add usr/share/conky-manager/themepacks/default-themes-2.3.cmtp.7z and update /debian/control
