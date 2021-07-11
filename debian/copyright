@@ -1,5 +1,5 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Source: https://github.com/hamonikr/boot-select
+Source: https://github.com/hamonikr/hamonikr-conky
 
 Files: *
 Copyright: 2019 HamoniKR <pkg@hamonikr.org>
