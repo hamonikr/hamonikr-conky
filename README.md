@@ -10,6 +10,9 @@
  * binary : https://launchpad.net/~afelinczak/+archive/ubuntu/ppa?field.series_filter=focal
  
 ![conky](docs/img-1.png)
+![conky](docs/img-2.png)
+![conky](docs/img-3.png)
+![conky](docs/img-4.png)
 
 # Install
 

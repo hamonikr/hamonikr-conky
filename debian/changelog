@@ -1,3 +1,10 @@
+hamonikr-conky (2.1.3) stable; urgency=medium
+
+  * Change new banner image
+   - Update usr/share/conky-manager/themepacks/default-themes-2.3.cmtp.7z
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 22 Jul 2021 15:29:24 +0900
+
 hamonikr-conky (2.1.2) stable; urgency=medium
 
   * Change new banner image (shortcut for HamoniKR)
