@@ -1,3 +1,10 @@
+hamonikr-conky (2.1.4) stable; urgency=medium
+
+  * Fix banner theme bug
+   - Update usr/share/conky-manager/themepacks/default-themes-2.4.cmtp.7z
+
+ -- HamoniKR <pkg@hamonikr.org>  Tue, 24 Aug 2021 10:50:23 +0900
+
 hamonikr-conky (2.1.3) stable; urgency=medium
 
   * Change new banner image
