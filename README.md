@@ -11,8 +11,10 @@
  
 ![conky](docs/img-1.png)
 ![conky](docs/img-2.png)
+![conky](docs/text-with-gpu.png)
 ![conky](docs/img-3.png)
 ![conky](docs/img-4.png)
+
 
 # Install
 
