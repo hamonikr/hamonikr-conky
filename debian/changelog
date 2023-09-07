@@ -1,3 +1,12 @@
+hamonikr-conky (2.1.7) stable; urgency=medium
+ 
+ [Kevin Kim]
+  * Release on Ubuntu 22.04
+   - Add recommend packages lm-sensors, nvidia-smi
+   - Add new skins: https://github.com/topics/conky-widget
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 07 Sep 2023 14:13:50 +0900
+
 hamonikr-conky (2.1.6) stable; urgency=medium
 
   * Add GPU Display Widget

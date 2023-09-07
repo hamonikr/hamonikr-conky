@@ -18,6 +18,7 @@ Depends: libc6 (>= 2.4),
          p7zip-full, 
          rsync, 
          imagemagick
+Recommends: dmidecode, lm-sensors, hddtemp, nvidia-smi, ffmpeg, playerctl, jq
 Replaces: conky-manager, conky-manager-extra, conky-toggle
 Description: conky tool for HamoniKR
  다양한 Conky 테마를 선택할 수 있는 프로그램.
