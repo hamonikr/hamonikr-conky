@@ -1,3 +1,10 @@
+hamonikr-conky (2.1.8) stable; urgency=medium
+ 
+  * Release for HamoniKR 7.0
+   - Add new skins: hamonikr-info(dark style for kumkang)
+
+ -- HamoniKR <pkg@hamonikr.org>  Sat, 21 Oct 2023 02:42:39 +0900
+
 hamonikr-conky (2.1.7) stable; urgency=medium
  
   * Release on Ubuntu 22.04
