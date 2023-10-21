@@ -1,3 +1,10 @@
+hamonikr-conky (2.1.9) stable; urgency=medium
+ 
+  * Release for HamoniKR 7.0
+   - Fixed wrong local ip in hamonikr-info 
+
+ -- HamoniKR <pkg@hamonikr.org>  Sat, 21 Oct 2023 14:23:59 +0900
+
 hamonikr-conky (2.1.8) stable; urgency=medium
  
   * Release for HamoniKR 7.0
