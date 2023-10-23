@@ -1,3 +1,10 @@
+hamonikr-conky (2.2.1) stable; urgency=medium
+ 
+  * Release for HamoniKR 7.0
+   - Adjust font size for hamonikr-info 
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 23 Oct 2023 11:48:09 +0900
+
 hamonikr-conky (2.2.0) stable; urgency=medium
  
   * Release for HamoniKR 7.0
