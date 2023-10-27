@@ -1,3 +1,10 @@
+hamonikr-conky (2.2.2) stable; urgency=medium
+ 
+  * Release for HamoniKR 7.0
+   - Add new conky skin for kumkang
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 27 Oct 2023 11:52:31 +0900
+
 hamonikr-conky (2.2.1) stable; urgency=medium
  
   * Release for HamoniKR 7.0
