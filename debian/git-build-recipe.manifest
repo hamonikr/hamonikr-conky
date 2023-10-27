@@ -1,0 +1,2 @@
+# git-build-recipe format 0.4 deb-version {debupstream}-0~202309030230
+lp:conky-manager2 git-commit:251ef0c47b5b384cb01c6b7a5712543552b800a7

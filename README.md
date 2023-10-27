@@ -36,7 +36,7 @@ sudo apt install -y hamonikr-conky
 
 #  새 테마를 추가하고 패키지할 때
 1) 소스코드 중 아래 압축파일을 풀면 테마가 저장되는 .conky 폴더가 있습니다.
-`usr/share/conky-manager/themepacks/default-themes-2.1.cmtp.7z`
+`src/share/conky-manager2/themepacks/default-themes-2.1.cmtp.7z`
 
 2) .conky 폴더안에 추가하기 원하는 테마를 넣고 다시 압축을 합니다. (7z)
 
