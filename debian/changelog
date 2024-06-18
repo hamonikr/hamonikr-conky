@@ -1,3 +1,10 @@
+hamonikr-conky (2.7.3-hamonikr3) stable; urgency=low
+
+  * Release for ubuntu 24.04
+   - Update show temp
+
+ -- HamoniKR <pkg@hamonikr.org>  Tue, 18 Jun 2024 14:24:25 +0900
+
 hamonikr-conky (2.7.3-hamonikr2) jammy; urgency=low
 
   * Fixed missing font
