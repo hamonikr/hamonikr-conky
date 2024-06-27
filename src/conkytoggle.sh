@@ -1,10 +1,11 @@
 #!/bin/bash
-# Filename:      conkytoggleflux.sh
+####################################################################
+# Filename:      conkytoggle.sh
 # Purpose:       toggle conky on/off from fluxbox menu
 # Authors:       Kerry and anticapitalista, secipolla for antiX
 # Authors:       modified for mx linux version 17 by dolphin oracle
-# Latest change: Sun December 10, 2017.
-################################################################################
+# Authors:       modified by Kevin Kim (2020-2024)
+####################################################################
 
 main()
 {
@@ -18,7 +19,13 @@ if pidof conky | grep [0-9] > /dev/null
          launch_conky
          autostart_on
     else
-    conky-manager &
+        if [ -x "$(command -v conky-manager)" ]; then
+            conky-manager &
+        elif [ -x "$(command -v conky-manager2)" ]; then
+            conky-manager2 &
+        else
+            echo "Neither conky-manager nor conky-manager2 is available"
+        fi
     fi
 fi
 }
