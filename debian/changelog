@@ -1,4 +1,10 @@
-hamonikr-conky (2.7.4) stable; urgency=low
+hamonikr-conky (2.7.3-hamonikr5) stable; urgency=low
+
+  * Add screenshot
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 28 Jun 2024 17:02:46 +0900
+
+hamonikr-conky (2.7.3-hamonikr4) stable; urgency=low
 
   * Release for ubuntu 24.04
    - Update show temp
