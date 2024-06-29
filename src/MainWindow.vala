@@ -336,6 +336,7 @@
 		 //btn_edit_gui
 		 btn_edit_gui = new Gtk.ToolButton.from_stock ("gtk-preferences");
 		 btn_edit_gui.is_important = false;
+		 btn_edit_gui.icon_widget = get_shared_icon("","edit_widget.png",24);
 		 btn_edit_gui.label = _("Edit");
 		 btn_edit_gui.set_tooltip_text (_("Edit Widget"));
 		 toolbar.add(btn_edit_gui);
