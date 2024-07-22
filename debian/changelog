@@ -1,3 +1,10 @@
+hamonikr-conky (2.8.0+h1) stable; urgency=low
+
+  * Release for bookworm arm64
+   - Add widget for raspberry
+
+ -- HamoniKR <pkg@hamonikr.org>  Tue, 23 Jul 2024 02:57:29 +0900
+
 hamonikr-conky (2.8.0) stable; urgency=low
 
   * Release for bookworm arm64
