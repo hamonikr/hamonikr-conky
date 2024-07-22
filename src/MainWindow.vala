@@ -404,12 +404,6 @@
  
 		 btn_import_themes.clicked.connect(btn_import_themes_clicked);
 		 
-		 //separator
-		 var separator = new Gtk.SeparatorToolItem();
-		 separator.set_draw(false);
-		 separator.set_expand(true);
-		 toolbar.add(separator);
-		 
 		 //btn_settings
 		 btn_settings = new Gtk.ToolButton.from_stock ("gtk-preferences");
 		 btn_settings.is_important = false;
@@ -418,14 +412,20 @@
 		 toolbar.add(btn_settings);
  
 		 btn_settings.clicked.connect(btn_settings_clicked);
- 
+
+		 //separator
+		 var separator = new Gtk.SeparatorToolItem();
+		 separator.set_draw(false);
+		 separator.set_expand(true);
+		 toolbar.add(separator);
+		  
 		 //btn_donate
 		 btn_donate = new Gtk.ToolButton.from_stock ("gtk-dialog-info");
 		 btn_donate.is_important = false;
 		 btn_donate.icon_widget = get_shared_icon("donate","donate.svg",32);
 		 btn_donate.label = _("Funding");
 		 btn_donate.set_tooltip_text (_("Funding Support"));
-		 toolbar.add(btn_donate);
+		 // toolbar.add(btn_donate);
  
 		 btn_donate.clicked.connect(() => { show_donation_window(false); });
 		 
