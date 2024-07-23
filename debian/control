@@ -10,7 +10,7 @@ Package: hamonikr-conky
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, 
           coreutils (>= 8.28), 
-          conky-all | conky-std, 
+          conky-all,
           p7zip-full, 
           rsync, 
           imagemagick
