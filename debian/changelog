@@ -1,3 +1,10 @@
+hamonikr-conky (2.8.0+h6) unstable; urgency=medium
+
+  [Kevin Kim]
+  * Fix widget back image path
+
+ -- HamoniKR <pkg@hamonikr.org>  Wed, 07 Aug 2024 21:29:41 +0900
+
 hamonikr-conky (2.8.0+h5) unstable; urgency=medium
 
   [Kevin Kim]
